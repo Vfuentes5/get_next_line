@@ -1,0 +1,7 @@
+hacer una funcion que revise si tiene mi linea un /n 
+si tine que devuelva 1
+si no tine que devuelva 0
+
+hacer una funcion que reciba la linea y con el split la divida en 2 chars * que uno sea el resultado y el otro el sobrante
+
+hacer una funcion que pille dos char * y los junte en uno solo reservando memoria (ft_realloc)
